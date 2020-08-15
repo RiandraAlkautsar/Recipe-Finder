@@ -1,8 +1,12 @@
 Berikut adalah tampilan hasil aplikasi saat berjalan:
 
-![RecipesFinder](/images/result1)
-![RecipesFinder](/images/result2)
-![RecipesFinder](/images/result3)
+![recipe-finder](/images/result1.jpg)
+![recipe-finder](/images/result2.jpg)
+![recipe-finder](/images/result3.jpg)
+
+## Cara Menjalankan
+NPM Install
+NPM run start-dev
 
 ## Technologies Used
 
