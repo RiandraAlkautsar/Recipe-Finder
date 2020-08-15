@@ -1,8 +1,8 @@
 Berikut adalah tampilan hasil aplikasi saat berjalan:
 
-![recipe-finder](/images/result1.jpg)
-![recipe-finder](/images/result2.jpg)
-![recipe-finder](/images/result3.jpg)
+![recipe-finder](/images/result1.JPG)
+![recipe-finder](/images/result2.JPG)
+![recipe-finder](/images/result3.JPG)
 
 ## Cara Menjalankan
 NPM Install
